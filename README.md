@@ -5,7 +5,7 @@ This repository contains the exploratory data analysis script, data-cleaning doc
 ## 1. Repository Structure
 
 * **a2_eda.py** — Python analysis script that cleans raw telemetry in memory, detects shadow entry/exit transitions, calculates orbital and eclipse durations, and tracks orbit-over-orbit battery SoC trends.
-* **A2-MD.md** — Complete written submission for Question A2 covering orbital timing, eclipse energy balance, and power-margin degradation.
+* **A2-report.md** — Complete written submission for Question A2 covering orbital timing, eclipse energy balance, and power-margin degradation.
 * **data_cleaning_log.md** — Step-by-step log of raw CSV data-quality issues identified and resolved in code prior to orbital and power calculations.
 * **telemetry_48h.csv** — Raw 48-hour KESTREL-4 housekeeping dataset (17,134 rows across 22 telemetry channels).
 * **README.md** — Project overview, key engineering results, and reproduction instructions.
