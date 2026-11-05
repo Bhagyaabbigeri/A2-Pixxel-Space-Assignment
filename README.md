@@ -38,5 +38,3 @@ Install the required Python packages:
 
 ```bash
 pip install pandas numpy
-
-*Bhagyashree Reddy · Pixxel Mission Operations · Assignment A2*
